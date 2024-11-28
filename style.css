@@ -39,8 +39,8 @@
       width: 50%;
       height: 4px;
       background: rgb(0, 0, 0);
-      transform-origin: 0% 100%; /* Anclar en la base */
-      transform: rotate(0deg); /* Posición inicial */
+      transform-origin: 0% 100%; 
+      transform: rotate(0deg); 
       border-radius: 4px;
     }
 
