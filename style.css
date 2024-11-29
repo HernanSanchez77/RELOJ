@@ -32,7 +32,7 @@
     }
 
     /* Manecillas */ 
-    .manecillas {
+    .manecillas { 
       position: absolute;
       bottom: 50%; /* Punto de giro */ 
       left: 50%;
